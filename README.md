@@ -4,5 +4,5 @@ This is a pet project to fact check viral media and be able to flag them and opt
 
 
 
-### I am looking at the following papers for reference which have done considerable work in Fake news detection or misinformation detection
-./Ref_Papers/ 
+I am looking at the following papers for reference which have done considerable work in Fake news detection or misinformation detection
+https://github.com/dipbanik/FactCheck/tree/main/Ref_Papers
